@@ -43,3 +43,6 @@ button:first-of-type {
 button::hover {
   cursor: pointer;
 }
+p {
+  text-align: center;
+}
