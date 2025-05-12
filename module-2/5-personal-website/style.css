@@ -10,3 +10,7 @@ input {
   color: #333;
   font-weight: bold;
 }
+img {
+  width: 150px;
+  border: 2px solid #333;
+}
