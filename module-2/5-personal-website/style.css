@@ -4,3 +4,9 @@ button {
   font-weight: bold;
   padding: 10px;
 }
+input {
+  border: 1px solid #333;
+  padding: 10px;
+  color: #333;
+  font-weight: bold;
+}
