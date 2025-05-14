@@ -5,7 +5,7 @@ img,
 input {
   display: block;
 }
-img {
+.logo {
   width: 300px;
 }
 input {
