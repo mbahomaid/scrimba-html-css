@@ -13,4 +13,8 @@ input {
 }
 .search-bar {
   width: 400px;
+  height: 24px;
+  padding: 10px 30px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
 }
