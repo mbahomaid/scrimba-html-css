@@ -4,6 +4,7 @@ body {
 .red {
   background: #c71226;
   height: 100px;
+  margin-top: 10px;
 }
 
 .blue {
