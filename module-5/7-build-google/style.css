@@ -21,4 +21,9 @@ input {
 .btn {
   display: block;
   margin: 30px auto;
+  background: #dfe1e5;
+  padding: 8px 16px;
+  font-size: 16px;
+  border: #dfe1e5 solid 1px;
+  border-radius: 4px;
 }
