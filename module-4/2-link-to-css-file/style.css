@@ -1,3 +1,7 @@
+img,
+input {
+  display: block;
+}
 img {
   width: 300px;
 }
