@@ -4,6 +4,8 @@
 img,
 input {
   display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 .logo {
   width: 300px;
