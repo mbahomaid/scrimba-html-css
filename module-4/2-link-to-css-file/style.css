@@ -3,6 +3,7 @@ input {
   display: block;
 }
 img {
+  margin-top: 100px;
   width: 300px;
 }
 input {
