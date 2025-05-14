@@ -1,3 +1,6 @@
 button {
-    color: #0f1419;
+  color: #0f1419;
+  border: 5px solid #cfd9de;
+  background: #fff;
+  font-weight: bold;
 }
