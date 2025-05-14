@@ -4,15 +4,16 @@ body {
 .red {
   background: #c71226;
   height: 100px;
-  margin-top: 10px;
+  /* margin-top: 10px;
   margin-left: 10px;
   margin-right: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 100px; */
 }
 
 .blue {
   background: #0d1b88;
   height: 100px;
+  margin: 20px 0;
 }
 
 .green {
