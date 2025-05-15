@@ -13,7 +13,7 @@ body {
   margin: 0 auto;
   display: flex;
   justify-content: space-around;
-  border-bottom: 4px solid #d8cefe;
+  border-bottom: 5px solid #d8cefe;
   border-radius: 5px;
 }
 .flex-item {
