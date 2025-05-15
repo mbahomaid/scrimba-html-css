@@ -7,7 +7,10 @@ body {
   margin-right: 20px;
 }
 .card {
-  border: 1px dotted blue;
+  
   padding: 20px;
   display: flex;
+}
+.dotted-border {
+  border: 1px dotted blue;
 }
