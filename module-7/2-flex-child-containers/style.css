@@ -1,19 +1,47 @@
+body {
+  background: #f0f0f0;
+  font-family: monospace;
+  font-size: 16px;
+}
 .pricing {
+  margin-top: 50px;
   display: flex;
-  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 .child {
   margin: 20px;
   padding: 20px;
   background: #333;
   color: #fff;
-  border-radius: 5px;
+  border-radius: 8px;
+  width: 200px;
 }
-.child h2 {
-  display: flex;
-  justify-content: center;
+.child button {
+  display: block;
+  width: 100px;
+  margin: 20px auto;
+  background: aliceblue;
+  color: black;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  font-family: monospace;
+}
+.child button:hover {
+  background: #333ff3;
+  color: aliceblue;
 }
 
-h1 {
+h1,
+h2 {
   text-align: center;
+}
+h1 {
+  background: #333ff3;
+  color: aliceblue;
+  width: 200px;
+  margin: 50px auto -30px;
+  border-radius: 8px;
+  padding: 10px;
 }
