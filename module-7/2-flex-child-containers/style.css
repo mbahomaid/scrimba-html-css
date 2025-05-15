@@ -10,7 +10,8 @@
   border-radius: 5px;
 }
 .child h2 {
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 h1 {
