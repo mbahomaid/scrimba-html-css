@@ -1,20 +1,21 @@
 body {
   margin: 20px;
+  color: #2b2839;
 }
 .profile-img {
   width: 150px;
   border-radius: 5px;
 }
 .card {
+  background: #ddebf8;
   padding: 20px;
   width: 400px;
   margin: 0 auto;
   display: flex;
   justify-content: space-around;
+  border-bottom: 4px solid #d8cefe;
+  border-radius: 5px;
 }
 .flex-item {
- text-align: center;
-}
-.dotted-border {
-  border: 1px dotted blue;
+  text-align: center;
 }
