@@ -1,6 +1,7 @@
 body {
   margin: 20px;
   font-family: monospace;
+  font-size: 16px;
   color: #2b2839;
 }
 .profile-img {
