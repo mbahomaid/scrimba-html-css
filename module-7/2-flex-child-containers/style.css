@@ -1,3 +1,7 @@
 .pricing {
   display: flex;
+  justify-content: center;
+}
+.child {
+  margin: 20px;
 }
