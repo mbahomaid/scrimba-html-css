@@ -1,0 +1,8 @@
+body {
+  color: #fff;
+  background-image: url("images/universe.jpg");
+  background-size: cover;
+}
+.center {
+  text-align: center;
+}
