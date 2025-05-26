@@ -10,6 +10,10 @@ body {
   width: 100px;
 }
 
+h1 {
+  margin-top: 0;
+}
+
 .btn {
   padding: 6px 12px;
   background: white;
