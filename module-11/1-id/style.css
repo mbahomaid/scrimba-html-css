@@ -6,6 +6,10 @@ body {
   font-family: "Orbitron", sans-serif;
 }
 
+#main-logo {
+  width: 100px;
+}
+
 .btn {
   padding: 6px 12px;
   background: white;
