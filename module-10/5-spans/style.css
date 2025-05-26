@@ -9,3 +9,7 @@ body {
   border: 5px solid #a3bc71;
   text-align: center;
 }
+
+.cta {
+  color: red;
+}
