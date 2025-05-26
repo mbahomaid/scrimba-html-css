@@ -1,5 +1,5 @@
 body {
-  color: white;
+  color: #82a5ca;
   background-image: url("images/galaxy.gif");
   background-size: cover;
   text-align: center;
@@ -15,10 +15,12 @@ h1 {
 }
 
 .btn {
+  color: #82a5ca;
   padding: 6px 12px;
   background: white;
   border: none;
   font-family: inherit;
+  font-weight: 800;
 }
 
 .underline {
