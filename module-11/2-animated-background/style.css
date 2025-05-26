@@ -7,7 +7,7 @@ body {
 .hero {
   background-image: url("images/galaxy.gif");
   background-size: cover;
-  padding: 30px;
+  padding: 10px 0 40px;
 }
 
 #main-logo {
