@@ -3,3 +3,9 @@ body {
     color: whitesmoke;
     font-family: 'Rammetto One', cursive;
 }
+
+.ad {
+    background: #35654d;
+    border: 5px solid #A3BC71;
+    text-align: center;
+}
