@@ -1,0 +1,14 @@
+body {
+  background: #b7111b;
+  color: #fafbf4;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 200px;
+  letter-spacing: 4px;
+  font-family: "Kanit", sans-serif;
+}
+
+h1 {
+  font-size: 80px;
+  text-shadow: 5px 5px 0px black;
+}
