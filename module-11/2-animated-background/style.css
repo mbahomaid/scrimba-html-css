@@ -18,7 +18,9 @@ body {
 h1 {
   margin-top: 0;
 }
-
+#title {
+  text-shadow: 0px 0px 4px #000;
+}
 .btn {
   color: #82a5ca;
   padding: 6px 12px;
