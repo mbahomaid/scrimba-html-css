@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: Happy Monkey, sans-serif;
+  color: #fff;
+  background: #a2d2ff;
+}
+#drdisrespect-image {
+  width: 150px;
+  border-radius: 50%;
+  border: 6px solid #efb0c9;
+}
+h1,
+h2,
+h4 {
+  text-shadow: 0px 0px 1px #000;
+}
