@@ -21,6 +21,8 @@ p {
 }
 h2, h4 {
     background: #efb0c9;
+    padding: 5px 10px;
+    border-radius: 3px;
 }
 #header {
   display: flex;
