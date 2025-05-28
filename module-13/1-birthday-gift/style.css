@@ -22,7 +22,14 @@ p {
 #bday-age, #bday-date{
     background: #efb0c9;
     padding: 5px 10px;
-    border-radius: 3px;
+    border-radius: 5px;
+    margin: 0;
+}
+#bday-date{
+    background: #efb0c9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 10px;
 }
 #header {
   display: flex;
