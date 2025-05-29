@@ -19,20 +19,54 @@ h4,
 p {
   text-shadow: 0px 0px 1px #000;
 }
-#bday-age, #bday-date{
-    background: #efb0c9;
-    padding: 5px 10px;
-    border-radius: 5px;
-    margin: 0;
+#bday-age,
+#bday-date {
+  background: #efb0c9;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-top: 10px;
 }
-#bday-date{
-    background: #efb0c9;
-    padding: 5px 10px;
-    border-radius: 5px;
-    margin: 10px;
+#bday-date {
+  background: #efb0c9;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 5px;
 }
 #header {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.gift-section {
+  margin-top: 50px;
+}
+
+.gift-title {
+  margin: 0px;
+}
+
+.gift-hint {
+  margin: 10px;
+}
+.gift-img-1,
+.gift-img-2 {
+  width: 400px;
+  height: 400px;
+  border: 6px solid #fff;
+  border-radius: 5px;
+  background-image: url(gift-cover.jpg);
+  background-size: cover;
+  margin: auto;
+}
+
+.gift-img-1:hover {
+  background-image: url(happy.gif);
+  width: 360px;
+}
+.gift-img-2:hover {
+  background-image: url(dancing.gif);
+  width: 360px;
+}
+.gift-title {
+  margin-bottom: 10px;
 }
